@@ -2,7 +2,9 @@ Pizza-Website
 =============
 
 UID Project
-This project was a part of my undergraduate curriculum in User INterface Design Course. THe main aim of this project was to incorporate all the golden rules of UID which are:
+This project was a part of my undergraduate curriculum in User Interface Design Course. The main aim of this project was to incorporate all the golden rules of UID which are:
+
+Time Taken: 7 Hours
 
 1. Strive for Consistency
 2. Cater to universal Usability/Enable frequent user to use shortcuts
