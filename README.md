@@ -18,3 +18,5 @@ Time Taken: 7 Hours
 Preview at:
 
 http://htmlpreview.github.io/?https://raw.githubusercontent.com/JatinMalviya/Pizza-Website/master/index.html
+
+Note: Sound and some images are not working in the above preview. Download the repository and then open with index.html. 
